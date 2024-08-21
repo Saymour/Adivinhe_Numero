@@ -1,5 +1,5 @@
 let listaDeNumerosEscolhido = [];
-let limite = 50;
+let limite = 40;
 let numeroSecreto = '';
 let tentativas = 1;
 
